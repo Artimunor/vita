@@ -1,33 +1,35 @@
-<!--
-===================================================================================
-SYNC IMPACT REPORT
-===================================================================================
+# <!--
+
+# SYNC IMPACT REPORT
+
 Version Change: [TEMPLATE] → 1.0.0
 Constitution Type: MAJOR (initial ratification)
 
 Modified Principles:
-  - All placeholders replaced with concrete principles
+
+- All placeholders replaced with concrete principles
 
 Added Sections:
-  ✓ I. Clean Code (new)
-  ✓ II. Simple User Experience (new)
-  ✓ III. Responsive Design (new)
-  ✓ IV. Minimal Dependencies (new)
-  ✓ V. No Testing (NON-NEGOTIABLE) (new)
+✓ I. Clean Code (new)
+✓ II. Simple User Experience (new)
+✓ III. Responsive Design (new)
+✓ IV. Minimal Dependencies (new)
+✓ V. No Testing (NON-NEGOTIABLE) (new)
 
 Removed Sections:
-  - All template placeholders
+
+- All template placeholders
 
 Templates Requiring Updates:
-  ⚠ .specify/templates/plan-template.md - Remove testing references
-  ⚠ .specify/templates/spec-template.md - Remove testing acceptance criteria guidance
-  ⚠ .specify/templates/tasks-template.md - Remove all test task phases and examples
+⚠ .specify/templates/plan-template.md - Remove testing references
+⚠ .specify/templates/spec-template.md - Remove testing acceptance criteria guidance
+⚠ .specify/templates/tasks-template.md - Remove all test task phases and examples
 
 Follow-up TODOs:
-  - Update all templates to remove testing references per Principle V
-  - Ensure all future development follows no-testing mandate
-===================================================================================
--->
+
+- Update all templates to remove testing references per Principle V
+- # Ensure all future development follows no-testing mandate
+  -->
 
 # Vita Constitution
 
